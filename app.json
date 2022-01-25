@@ -12,9 +12,6 @@
 		"web"
 	],
 	"buildpacks" : [
-		{
-			"url" : "https://github.com/gyt4010661/svtas"
-		},
     {
       "url" : "https://github.com/gyt4010661/heroku-buildpack-ffmpeg-latest"
     }
