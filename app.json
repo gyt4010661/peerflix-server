@@ -12,6 +12,9 @@
 		"web"
 	],
 	"buildpacks" : [
+		{
+			"url" : "https://github.com/sibeliusseraphini/heroku-buildpack-nodejs-bower-grunt"
+		},
     {
       "url" : "https://github.com/gyt4010661/heroku-buildpack-ffmpeg-latest"
     }
