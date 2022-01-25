@@ -1,0 +1,7 @@
+{
+  "name": "peerflix-server",
+  "description": "Easily download torrents directly over http with this self-hosted app",
+  "repository": "https://github.com/gyt4010661/peerflix-server",
+  "logo": "https://avatars.githubusercontent.com/u/97902548?v=4",
+  "keywords": ["node", "torrent", "proxy"]
+}
